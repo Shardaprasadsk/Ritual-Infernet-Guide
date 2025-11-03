@@ -593,13 +593,7 @@ sudo rm -rf infernet-container-starter
 ♦️📣Now u can follow From step - `Cloning The Starter Repository`
 
 
-
-
-👉 Join TG for more Updates: https://telegram.me/cryptogg
-
 If U have any issue then open a issue on this repo or Dm me on TG~
 
-Thank U! 👨🏻‍💻 
-
-Happy Coding💗
+Happy Coding 👨🏻‍💻 💗
 
